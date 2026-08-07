@@ -1,4 +1,4 @@
-/*Put this in your den description:   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/CSShelp/amy./tRY.css" />       */
+/*Put this in your den description:   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/CSShelp/amy./AMy.css" />       */
 body {background: url("https://i.vgy.me/sUwxkY.png") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
@@ -68,7 +68,7 @@ color: #29201C;
 }
  
 .navbar-default .navbar-nav li a:hover {
-color: #29201C;
+color: #E9EBDF;
 background: #29201C;
 border-left: 1px solid #29201C;
 border-right: 1px solid #29201C;
