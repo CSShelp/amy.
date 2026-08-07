@@ -1,0 +1,266 @@
+body {background: url("https://i.vgy.me/sUwxkY.png") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+
+.welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
+color: #000;
+}
+
+h1, h3 , .sidebar h3 {
+font-family: Arial !important;
+text-align: left;
+color: #000000;
+border-bottom: 1px solid #000000;
+}
+
+/* Buttons */
+input[type="button"], input[type="submit"], input[type="submit"]:hover {
+background: rgba(77, 72, 51, 0.21);
+color: #000000;
+border: 1px solid #000000;
+text-shadow: none;
+font-weight: bold;
+font-size: 14px;
+border-radius: 5px;
+}
+ 
+ 
+/* Links */
+ 
+.table a:link, .table a:active, .table a:visited, .right a:link, .right a:active, .right a:visited, .bottom a:link, .bottom a:active, .bottom a:visited, .topbar a:link, .topbar a:visited, .topbar a:active, a:link, a:visited, a:active {
+color: #000000;
+}
+ 
+.table .top a:link, .table .top a:active, .table .top a:visited, .table th a:link, .table th a:active, .table th a:visited {
+border-bottom: 1px solid #000000;
+color: #000000;
+}
+ 
+/* Topbar */
+ 
+.topbar {
+background: rgba(77, 72, 51, 0.70);
+border: 1px solid #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+.badge {
+background: rgba(77, 72, 51, 0.21);
+border: 1px solid #000;
+}
+ 
+/* Navigational Bar */
+ 
+.main {
+background: rgba(77, 72, 51, 0.21);
+border: 1px solid #000;
+box-shadow: none;
+}
+ 
+.navbar {
+background: rgba(77, 72, 51, 0.21);
+border-bottom: 1px solid #000;
+color: #000000;
+}
+ 
+.navbar-default .navbar-nav > li > a {
+color: #000000;
+}
+ 
+.navbar-default .navbar-nav li a:hover {
+color: #000000;
+background: #eae9ee;
+border-left: 1px solid #000;
+border-right: 1px solid #000;
+} 
+ 
+ 
+ 
+/* Sidebar */
+ 
+.sidebar {
+background: rgba(77, 72, 51, 0.21);
+border: 0px solid #000;
+border-bottom: 1px solid #000;
+border-left: 1px solid #000;
+color: #000000;
+}
+ 
+.col-md-3 .panel {
+background: rgba(77, 72, 51, 0.21);
+border: 1px solid #000;
+box-shadow: none;    
+}
+ 
+.progress-bar {
+background: #D9D6C5;
+}
+ 
+.progress {
+background: #f7f7f7;
+border: 1px solid #000000;
+}
+ 
+ 
+/* Chat */
+ 
+.chat_light, .chat_dark {
+background: rgba(77, 72, 51, 0.21);
+font-size: 11px;
+color: #000000;
+}
+
+.chatContainer {
+border: 1px solid #000000;
+}
+ 
+.userstolen {
+background: none;
+}
+
+.alert-danger {
+color: #000000;
+background: rgba(77, 72, 51, 0.21);
+border: 1px solid #000000;
+}
+
+.alert-success {
+color: #000000;
+background: rgba(77, 72, 51, 0.21);
+border: 1px solid #000;
+}
+
+.breadcrumb {
+background:  rgba(77, 72, 51, 0.21);
+font-size: 13px;
+border: 1px solid #000;
+}
+ 
+.breadcrumb>.active {
+color: #000000;
+}
+ 
+h1 small, h2, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: "Carter One";
+color: #000000;
+}
+ 
+.col-md-9{
+    background:none;
+    border:0;
+    position:relative;
+    overflow:visible;
+}
+ 
+/* Tables */
+ 
+#lion_image {
+border-radius: 25px;
+overflow: hidden;
+border: 1px solid #000;
+}
+ 
+.table, .item {
+border: 1px solid #000;
+background: rgba(77, 72, 51, 0.21);
+border-collapse: separate;
+}
+
+.table .right, .table .right_odd {
+background: none;
+border: 0px solid #000;
+}
+
+div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
+border: 0px solid #000;
+background: rgba(77, 72, 51, 0.21);
+color: #000000;
+}
+
+.cave-grid, div .left, .mound-grid {
+border: 1px solid #000;
+background: #4D4833;
+color: #000000;
+}
+
+.table .left {
+border: 1px solid #000;
+background: rgba(77, 72, 51, 0.21);
+color: #000000;
+}
+
+.inner-table .right {
+background: rgba(77, 72, 51, 0.21);
+border: 1px solid #000;
+border-left: none;
+
+}
+/*Navbar Lioden Logo*/
+img[src$="https://i.postimg.cc/nrgvC7wq/CORVETTE.jpg"] {
+content: url('https://i.imgur.com/LiodenLogoReplacement.png');
+}
+/*Unsorted Lions*/
+img[src$="unsortedlionsbanner.png"] {
+content: url('https://i.vgy.me/QoYmzz.png')!important;
+}
+
+/*Nesting*/
+img[src$="nestingbanner.png"] {
+content: url('https://i.vgy.me/QoYmzz.png')!important;
+}
+
+/*Overview*/
+img[src$="overviewbanner.png"] {
+content: url("https://i.vgy.me/t4iYi0.png")!important;
+}
+
+/*Default Mound Image*/
+img[src$="beetleunsorted.png"] {
+content: url("https://i.vgy.me/t4iYi0.png") !important;
+}
+
+img[src$="beetlemound.png"] {
+content: url("https://i.vgy.me/t4iYi0.png") !important;
+}
+
+img[src$="addbeetlemound.png"] {
+content: url("https://i.vgy.me/t4iYi0.png") !important;
+}
+/*Default*/
+img[src$="cavedefault.jpg"] {
+content: url("https://i.vgy.me/t4iYi0.png") !important;
+}
+/*Unused Slot*/
+img[src$="caveunused.jpg"] {
+content: url("https://i.vgy.me/t4iYi0.png") !important;
+}
+/*Navbar Lioden Logo*/
+img[src$="logo-full-2.png"] {
+content: url('https://static.lioden.com/images/items/Other/FluffyBunny.png');}
+
+.main{
+    position: relative;
+}
+
+.main::after{
+    content:"";
+    position:fixed;
+
+    bottom:0px;
+    left:40%;
+
+    width:700px;
+    height:1000px;
+
+    margin-left:600px;
+
+    background:url("https://i.postimg.cc/fLs96GB6/Untitled89-20260714160450.png") no-repeat bottom center;
+    background-size:contain;
+
+    pointer-events:none;
+    z-index:100;
+}
+
+
+
+
+ 
