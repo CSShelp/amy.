@@ -210,7 +210,7 @@ content: url('https://i.vgy.me/QoYmzz.png')!important;
 
 /*Overview*/
 img[src$="overviewbanner.png"] {
-content: url("https://i.vgy.me/t4iYi0.png")!important;
+content: url("https://i.vgy.me/QoYmzz.png")!important;
 }
 
 /*Default Mound Image*/
@@ -227,11 +227,11 @@ content: url("https://i.vgy.me/t4iYi0.png") !important;
 }
 /*Default*/
 img[src$="cavedefault.jpg"] {
-content: url("https://i.vgy.me/t4iYi0.png") !important;
+content: url("https://i.vgy.me/QoYmzz.png") !important;
 }
 /*Unused Slot*/
 img[src$="caveunused.jpg"] {
-content: url("https://i.vgy.me/t4iYi0.png") !important;
+content: url("https://i.vgy.me/QoYmzz.png") !important;
 }
 /*Navbar Lioden Logo*/
 img[src$="logo-full-2.png"] {
