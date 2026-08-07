@@ -262,5 +262,47 @@ content: url('https://static.lioden.com/images/items/Other/FluffyBunny.png');}
 
 
 
+.boxcontainer {
+	background: none;
+	height: auto;
+	padding: 0px;
+	display: flex;
+	justify-content: center
+}
+
+
+.Box1 {
+	float: left;
+	background: rgba(116, 166, 230, 0.6);
+	color: white;
+	padding: 15px;
+	border: 1px solid #c9cbca;
+	border-radius: 10px;
+	margin: 10px;
+	float: left;
+	height: 96px;
+	width: 300px;
+	overflow: auto;
+	transition: 3s
+}
+
+
+.Box2 {
+	float: left;
+	background: rgba(116, 166, 230, 0.6);
+	color: white;
+	padding: 15px;
+	border: 1px solid #c9cbca;
+	border-radius: 10px;
+	margin: 10px;
+	height: 96px;
+	width: 300px;
+	overflow: auto;
+	transition: 3s
+}
+
+
+
+
 
  
